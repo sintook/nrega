@@ -14,9 +14,16 @@
     "allowOffline": true
   },
   {
-    "id": "3f51a7ae6877fa96",
-    "username": "123456",
-    "password": "123456",
+    "id": "29ffb05a4e763d99",
+    "username": "12346",
+    "password": "12346",
+    "expiresAt": "2024-12-13",
+    "allowOffline": true
+  },
+  {
+    "id": "53b7272ccee207e1",
+    "username": "soljar",
+    "password": "soljar",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
