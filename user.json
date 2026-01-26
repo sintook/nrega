@@ -36,6 +36,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "4391b12dd6f7c0ed",
+        "key": "sk",
+        "expirydate": "30-03-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "e99caf4b07d90a02",
         "key": "mk",
         "expirydate": "25-06-2026",
