@@ -8,7 +8,7 @@
     {
         "device_id": "102649433a57d2d5",
         "key": "1234512345",
-        "expirydate": "31-12-2024",
+        "expirydate": "31-12-2026",
         "Allowoffline": false
     },
     {
@@ -44,7 +44,7 @@
     {
         "device_id": "e99caf4b07d90a02",
         "key": "mk",
-        "expirydate": "25-06-2024",
+        "expirydate": "25-06-2026",
         "Allowoffline": false
     }
 ]
