@@ -30,9 +30,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "d7a02f9deb23ed97",
-        "key": "subhash",
-        "expirydate": "30-03-2024",
+        "device_id": "ddeff28b93f41147",
+        "key": "pk",
+        "expirydate": "23-02-2026",
         "Allowoffline": true
     },
     {
@@ -44,7 +44,7 @@
     {
         "device_id": "e99caf4b07d90a02",
         "key": "mk",
-        "expirydate": "25-06-2026",
+        "expirydate": "23-02-2026",
         "Allowoffline": false
     }
 ]
