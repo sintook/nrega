@@ -33,7 +33,7 @@
         "device_id": "ddeff28b93f41147",
         "key": "pk",
         "expirydate": "30-02-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "4391b12dd6f7c0ed",
