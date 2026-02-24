@@ -7,7 +7,7 @@
     },
     {
         "device_id": "102649433a57d2d5",
-        "key": "1234512345",
+        "key": "sintoo",
         "expirydate": "31-12-2026",
         "Allowoffline": false
     },
@@ -26,13 +26,13 @@
     {
         "device_id": "2062fecfec249bde",
         "key": "bk",
-        "expirydate": "30-03-2026",
+        "expirydate": "20-03-2026",
         "Allowoffline": true
     },
     {
         "device_id": "ddeff28b93f41147",
-        "key": "pk",
-        "expirydate": "26-02-2026",
+        "key": "sk",
+        "expirydate": "24-02-2026",
         "Allowoffline": true
     },
     {
